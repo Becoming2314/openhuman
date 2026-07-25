@@ -1,3 +1,3 @@
 # Openhuman
-Building myself like an open source project — in public.
+> Building myself like an open source project — in public.
 ---
